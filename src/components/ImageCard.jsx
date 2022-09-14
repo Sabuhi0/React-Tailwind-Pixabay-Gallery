@@ -1,4 +1,3 @@
-
 const ImageCard = ({ image }) => {
     const tags = image.tags.split(",")
     return (
